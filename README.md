@@ -26,12 +26,9 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uselessapu&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uselessapu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=uselessapu&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=uselessapu&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uselessapu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -50,13 +47,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="75" height="25" alt="youtube logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uselessapu/uselessapu/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uselessapu/uselessapu/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/uselessapu/uselessapu/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
